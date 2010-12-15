@@ -12,7 +12,7 @@ Scroll It – it’s a very simple JavaScript created to solve this kind of prob
 
 3) Click on Scroll It in your bookmark bar. That’s all
 
-**Check out this blog post to see a draggable link
+**Check out this blog post to get a draggable link
 
 http://pablocantero.com/blog/2010/12/09/scroll-it-a-javascript-bookmarklet-to-make-automatic-scrolling-in-the-page/
 
