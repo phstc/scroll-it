@@ -1,4 +1,4 @@
-==Scroll it – A Javascript bookmarklet to make automatic scrolling in the page
+==Scroll it - A Javascript bookmarklet to automatically scroll the page
 
 Have you ever had trouble when trying to play a song in your guitar when reading the chords from a web site? Don’t you always need to stop playing to scroll the page?
 
@@ -14,7 +14,7 @@ Scroll It – it’s a very simple JavaScript created to solve this kind of prob
 
 **Check out this blog post to get a draggable link
 
-http://pablocantero.com/blog/2010/12/09/scroll-it-a-javascript-bookmarklet-to-make-automatic-scrolling-in-the-page/
+http://pablocantero.com/blog/2010/12/09/scroll-it-a-javascript-bookmarklet-to-automatically-scroll-the-page/
 
 ==Do you want to improve this JavaScript?
 
